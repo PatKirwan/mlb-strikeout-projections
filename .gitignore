@@ -1,0 +1,5 @@
+.env
+bets.csv
+Output/
+__pycache__/
+*.pyc
